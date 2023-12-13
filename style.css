@@ -1,0 +1,20 @@
+.site-header{
+    background-color: black;
+}
+
+.site-header a {
+color: blueviolet;
+}
+
+p,h1{
+    color: red;
+}
+
+#paragraph{
+    color: blue;
+}
+
+.color-text{
+    color: yellow;
+}
+
